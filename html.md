@@ -6,7 +6,7 @@
 <html lang="zh-tw">
     <head>
         <meta charset="utf-8" />
-        <title>哈囉你好嗎衷心感謝</title>
+        <title>哈囉你好嗎</title>
       </head>
 <body>
 
